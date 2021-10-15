@@ -12,7 +12,7 @@ Digital Central starter for Gatsby projects. See portfolio at [Digital Central](
 ## Installation
 
 ```
-git clone https://github.com/digitalcentral/digital-central-starter.git
+git clone https://github.com/digitalcentral/digital-central-starter-firebase.git
 ```
 
 ```
